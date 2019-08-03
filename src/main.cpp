@@ -38,6 +38,7 @@ using namespace std;
  * @section related_files İlgili Dosyalar
  *
  * - DIRPATH_SERVICES      		: servislere ait config dosyalarının bulunduğu dizin
+ * - DIRPATH_SERVICE_SCRIPTS	: servis script dosyalarının bulunduğu dizin
  * - DIRPATH_SERVICE_PIDS       : servislere ait pid dosyalarının bulunduğu dizin
  * - FILEPATH_SERVICES_LIST   	: çalışan servislerin listesini içeren dosya
  *
