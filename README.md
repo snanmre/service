@@ -10,6 +10,7 @@ as a simpler version of upstart.
 ## Details
 
 ### Related directories/files
+Definitions in [fileutils.h](https://github.com/snanmre/service/blob/master/inc/fileutils.h)
 * DIRPATH_SERVICES("./services"): directory path of service configuration files
 * DIRPATH_SERVICE_SCRIPTS("/run/shm/service"): directory of service script files
 * DIRPATH_SERVICE_PIDS("/run/service"): directory of service pid files
